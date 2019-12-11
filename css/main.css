@@ -47,19 +47,6 @@ main {
   display: inline-block;
 }
 
-.btn {
-  display: inline-block;
-  padding: .2em .5em .3em;
-  background-color: #b20953;
-  border-radius: 4px;
-  margin: 0 0 .3em;
-  border: 0;
-  color: #fff;
-  text-decoration: none;
-  font: normal Georgia;
-  font-family: serif;
-}
-
 h2 {
   font-family: "Sigmar One", sans-serif;
   margin: .9em 0;
